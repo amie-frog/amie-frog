@@ -2,7 +2,8 @@
 
                         💻 Junior Developer | 🌱 Learning Laravel, PHP, Vue.js  
 
-- 🔭 I’m currently working on FDA-related projects since March 2025 
+- 🔭 I’m currently working on FDA-related projects since March 2025
+- 👨‍💻 All of my projects are available at https://github.com/amie-frog?tab=repositories
 - 🌱 I’m improving my Laravel skills  
 - 💬 Ask me about Laravel, PHP, Git  
 - 📫 Reach me at: azinphyo452@gmail.com
